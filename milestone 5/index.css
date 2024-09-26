@@ -32,7 +32,7 @@ label::placeholder{
 }
 fieldset{
 box-shadow: 0 0 5px rgba(0, 0, 0, 0.714);
-background-color:rgba(213, 152, 251, 0.416);
+background-color:rgba(75, 18, 65, 0.416);
 border-radius: 8px;
 padding: 20px;
 font-family: system-ui;
@@ -51,7 +51,7 @@ box-sizing: border-box;
  margin-left: 1rem;
  font-size: 2rem;
  font-family: system-ui;
- color:aqua;
+ color:rgb(48, 8, 45);
 }
 #education,#exprience,#skills{
  width: 30rem;
@@ -78,16 +78,16 @@ button :hover {
 }
 button:active{
  opacity: 0.9;
- background-color: rgba(0, 100, 0, 0.788);
+ background-color: rgba(46, 115, 136, 0.788);
 }
 
 #resume-display {
  max-width: 600px;
  margin: auto;
  padding: 20px;
- border: 2px solid rgba(143, 188, 143, 0.686);
+ border: 2px solid rgba(143, 171, 188, 0.686);
  border-radius: 8px;
- background-color: rgba(0, 100, 0, 0.52);
+ background-color: rgba(35, 88, 101, 0.52);
  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
  /*making the resume editable*/
  outline: none;
